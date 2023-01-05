@@ -85,11 +85,11 @@ with mp_selfie_segmentation.SelfieSegmentation(model_selection=0) as selfie_segm
       imgH,imgW=image.shape[0],image.shape[1]
       #image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
       results = pose.process(image) #偵測身體
-      #左手軸3點->11,13,15
+      #左腳軸3點->23,25,27
       if (not results.pose_landmarks==None): #至少有一個身體
-        a=np.array([results.pose_landmarks.landmark[23].x*imgW,results.pose_landmarks.landmark[11].y*imgH])
-        b=np.array([results.pose_landmarks.landmark[25].x*imgW,results.pose_landmarks.landmark[13].y*imgH])
-        c=np.array([results.pose_landmarks.landmark[27].x*imgW,results.pose_landmarks.landmark[15].y*imgH])
+        a=np.array([results.pose_landmarks.landmark[23].x*imgW,results.pose_landmarks.landmark[23].y*imgH])
+        b=np.array([results.pose_landmarks.landmark[25].x*imgW,results.pose_landmarks.landmark[25].y*imgH])
+        c=np.array([results.pose_landmarks.landmark[27].x*imgW,results.pose_landmarks.landmark[27].y*imgH])
         #算出角度
         HandAngle=FindAngleF(a,b,c)
         #print(HandAngle)
