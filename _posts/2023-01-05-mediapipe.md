@@ -31,7 +31,7 @@ tags: [jekyll, ai]
 ### 測試結果
 ![](https://github.com/JULIA1021/AI-course/blob/gh-pages/images/1.jpg?raw==true)
 
-<iframe width="960" height="540" src="https://www.youtube.com/watch?v=jAi_b4SVjiU&t=607s" title="Mediapipe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="960" height="540" src="https://www.youtube.com/shorts/NbBt8I_7Q9k" title="人工期末" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <br />
