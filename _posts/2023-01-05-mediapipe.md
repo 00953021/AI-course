@@ -146,7 +146,7 @@ cap.release()
 ```
 ### 測試結果
 ![](https://github.com/JULIA1021/AI-course/blob/gh-pages/images/1.jpg?raw==true)
-![](https://github.com/JULIA1021/AI-course/blob/gh-pages/images/6.jpg)?raw==true)
+![](https://github.com/JULIA1021/AI-course/blob/gh-pages/images/6.jpg?raw==true)
 <br>
 
 ### 參考影片
