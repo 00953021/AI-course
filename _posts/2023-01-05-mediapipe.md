@@ -33,7 +33,7 @@ Mediapipe Pose 模型可以標記出身體共 33 個姿勢節點的位置，甚�
 ![](https://github.com/JULIA1021/AI-course/blob/gh-pages/images/2.jpg?raw==true)
 ---
 ### 系統方塊圖
-![](https://github.com/JULIA1021/AI-course/blob/gh-pages/images/3.jpg?raw==true)
+![](https://github.com/JULIA1021/AI-course/blob/gh-pages/images/7.jpg?raw==true)
 ---
 ### 製作步驟
 1參考mediapipe 函式<br>
