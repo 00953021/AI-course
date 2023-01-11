@@ -146,6 +146,8 @@ cap.release()
 ```
 ### 測試結果
 ![](https://github.com/JULIA1021/AI-course/blob/gh-pages/images/1.jpg?raw==true)
+![](https://github.com/JULIA1021/AI-course/blob/gh-pages/images/4.jpg?raw==true)
+<br>
 
 ### 參考影片
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TTE3SjYuing" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
